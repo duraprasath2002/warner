@@ -1,0 +1,54 @@
+body
+{
+    background-image: url(./CSK-vs-MI.webp);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+.team
+{
+    height: 200px;
+    width: 40%;
+    padding: 100px;
+    margin-left: 20px;
+    float: left;
+    margin-top: 50px;
+}
+#csk
+{
+    background-image: url(./csk.jpg);
+    background-size: cover;
+    margin-left: 30px;
+}
+#mi
+{
+    background-image: url(./mi.webp);
+    background-size: cover;
+    margin-left: 110px;
+    border-style: dashed;
+    border-color: blue;
+    
+}
+.team
+{
+    height: 200px;
+    width: 40%;
+    background-image: url();
+    padding: 20px;
+}
+button
+{
+    width: 400px;
+    height: 50px;
+    background-color: red;
+    font-size: 30px;
+    color: white;
+    padding: 50px;
+    margin-top: 70px;
+    margin-left: 500px;
+}
+.winner
+{
+    background-color: white;
+    color: aqua;
+}
